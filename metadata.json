@@ -1,0 +1,6 @@
+{
+  "name": "PrimeCare Hospital",
+  "description": "Compassionate Care. Advanced Medicine. Better Health. Premier hospital platform for PrimeCare Hospital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
